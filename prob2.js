@@ -4,4 +4,3 @@ let b= 10;
 
 console.log(a);
 
-console.log(a);
